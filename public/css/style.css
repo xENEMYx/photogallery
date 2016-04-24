@@ -1,0 +1,11 @@
+.hideme{
+    display: none;
+}
+
+.avatar-panel{
+    margin-left: 20px;
+}
+
+#userFriends a{
+    color: darkslategray;
+}
